@@ -3,7 +3,7 @@
 Please add Stack.swift and Queue.swift file on your project and use below class to test it.
 
 ```swift
-     class TestStackAndQueue{
+class TestStackAndQueue{
     
     var stackItems = Stack<Any>()
     var queueElements = Queue<Any>()
